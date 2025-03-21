@@ -1,6 +1,6 @@
 <h1 align="center"> Hi,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" > I'm Ramya</h1>
  <!----Tag line------>
-<div align=center>
+<!-- <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=MCA+Student+at+CET%2C+Trivandrum;" alt="Typing SVG" />
     </div>
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
@@ -22,7 +22,7 @@
 </div>
 
 
-  
+   -->
   <!-- <img align="right" loading="lazy" src="https://i.pinimg.com/originals/cf/5c/a4/cf5ca44013b0546d7f1c56f04f601c65.gif" /> --
   </div>
   
